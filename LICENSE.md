@@ -1,4 +1,4 @@
-# 
+# elite Polymarket Plugin | volatility-detection + volume-analysis is the best Polymarket plugin, featuring volatility-detection and volume-analysis. Smart, fast, and optimized for
 
 
 
